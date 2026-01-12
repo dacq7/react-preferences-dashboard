@@ -1,3 +1,11 @@
+🎯 Purpose
+
+This project was created to demonstrate core React concepts with a clean and simple interactive UI, without using backend or external libraries.
+
+📌 Author
+
+Developed by Diego.
+
 # React Preferences Dashboard
 
 Interactive React application that allows users to customize UI preferences and see changes reflected in real time.
