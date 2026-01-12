@@ -4,7 +4,7 @@ This project was created to demonstrate core React concepts with a clean and sim
 
 📌 Author
 
-Developed by Diego.
+Developed by Diego Alejandro Correa.
 
 # React Preferences Dashboard
 
