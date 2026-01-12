@@ -1,16 +1,39 @@
-# React + Vite
+# React Preferences Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Interactive React application that allows users to customize UI preferences and see changes reflected in real time.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Light / Dark theme toggle
+- Dynamic text size control
+- Card style selector (bordered / shadow)
+- Show / hide tips section
+- Fully reactive UI using React state
 
-## React Compiler
+## 🧠 Concepts Applied
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React functional components
+- useState hook
+- Props and component communication
+- Conditional rendering
+- Dynamic CSS based on state
+- Component-based architecture
 
-## Expanding the ESLint configuration
+## 🖥️ Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The interface is divided into:
+
+- Control Panel: where the user changes preferences
+- Preview Panel: where changes are reflected instantly
+
+## 🛠 Tech Stack
+
+- React (Vite)
+- JavaScript
+- CSS
+
+## 📦 Installation
+
+```bash
+npm install
+npm run dev
